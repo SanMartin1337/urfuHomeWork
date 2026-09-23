@@ -1,0 +1,41 @@
+# Кэш и байт-код Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Виртуальные окружения
+venv/
+ENV/
+env/
+.venv/
+
+# Настройки и редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Зависимости и дистрибутивы
+develop-eggs/
+dist/
+downloads/
+eggs/
+.installed.cfg
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Логи и базы данных
+*.log
+*.sqlite3
+
+# Операционная система
+.DS_Store
+Thumbs.db
